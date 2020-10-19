@@ -5,6 +5,7 @@ echo "MAX 10 SLOTS"
 for ((i=0;i<10;i++))do
 	add[$i,0]=" "
 done
+#Storing of data to a multidimentional array
 function Address(){
 	while true
 	do
